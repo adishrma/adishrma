@@ -1,4 +1,5 @@
 ### Hi there 👋
+This Project is about the anime hub using html, css, js and bootstrap.
 
 <!--
 **adishrma/adishrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
